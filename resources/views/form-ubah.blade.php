@@ -32,6 +32,4 @@ Ubah Kendaraan
 </form>
 </div>
 
-
-
 @endsection
